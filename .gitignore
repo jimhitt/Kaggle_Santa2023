@@ -1,0 +1,4 @@
+# ignore data files
+data/
+
+.DS_Store
